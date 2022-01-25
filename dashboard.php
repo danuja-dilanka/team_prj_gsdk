@@ -12,7 +12,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link rel="shortcut icon" href="img/icons/icon-48x48.png" />
 
-        <title>Sachintha Samarathunga</title>
+        <title>Kashyapa Sachinthaka Bandara</title>
 
         <link href="css/app.css" rel="stylesheet">
     </head>
