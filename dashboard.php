@@ -17,7 +17,7 @@
         <link href="css/app.css" rel="stylesheet">
     </head>
 
-    <body>
+    <body class="mybody">
         <div class="wrapper">
             <?php
             include 'inc/header.php';
